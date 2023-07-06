@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "589591677935",
+    "project_id": "elms-attendance",
+    "storage_bucket": "elms-attendance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589591677935:android:3089dadf222ec7552e841a",
+        "android_client_info": {
+          "package_name": "com.example.notification_in_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589591677935-65licols7qfib06em5cba2m57hbsvi1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQrJFDZ28tMUQ72AGnuGhvHvHDo-TQKbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589591677935-65licols7qfib06em5cba2m57hbsvi1r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "589591677935-00vk99piq981cpihd2kqjqnshf61pin5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kuldiiproject.chatapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
